@@ -1,0 +1,9 @@
+body > #bg1 {
+    height: 50%;
+    width: 50%;
+    background-color: aqua;
+    background-image: url(photo.jpg);
+    background-blend-mode: screen;
+    position: absolute;
+    z-index: -1;
+}
